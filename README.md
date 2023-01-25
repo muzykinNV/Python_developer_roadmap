@@ -1,9 +1,3 @@
-### 🎥 [PYTHON:TODAY](https://www.youtube.com/c/PythonToday/videos)
-### 🔥 [Telegram](https://t.me/python2day)
----
-
-# 🌐 Python разработчик. Путь с нуля к ЗП от 1500$ за полгода
----
 
 # Python
 ## 1.1 Основы
